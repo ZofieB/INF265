@@ -1,0 +1,4 @@
+week6_cnn_dataaug_regul/data/*
+week5_mlp_mnist/MNIST/*
+week5_mlp_mnist/handwritten_digits_images.csv
+week5_mlp_mnist/handwritten_digits_labels.csv
